@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    margin-left: 250px;
+    margin-right: 100px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-evenly
+}
